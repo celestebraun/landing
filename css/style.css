@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Sriracha&display=swap");
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+
+
+body {
+
+	font-family: 'Circular', sans-serif;
+	 margin : 0px;
+
+}  
+
+h2 {
+
+	padding-left: 18px;
+} 
+
+h1,h2,h3 {
+
+	font-family: 'Circular'
+	font-weight: bold;
+
+
+
+
+
+
+}
+
+a{
+	text-decoration: none;
+}
+
+.centrer {
+  text-align: center;
+}
